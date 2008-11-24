@@ -1,0 +1,4 @@
+
+class AppContext {
+	UserContext userContext
+}
